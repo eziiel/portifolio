@@ -1,0 +1,14 @@
+//colors
+  #FFFFFA
+  #FF6700
+  #051124
+  #10041C
+  #000010
+
+
+//fonts
+  <link href="https://fonts.googleapis.com/css2?family=Finlandica:wght@400;500;600&display=swap" rel="stylesheet">
+  font-family: 'Finlandica', sans-serif;
+
+
+
